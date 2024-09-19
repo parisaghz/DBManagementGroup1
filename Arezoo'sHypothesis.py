@@ -1,3 +1,6 @@
+##Movies with bigger production budgets are less affected by 
+##negative reviews and will still perform well at the box office 
+##even if they get bad feedback.
 ###uthor : Arezoo Amani 500948377
 
 import csv
