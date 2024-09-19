@@ -1,3 +1,5 @@
+###author : Arezoo Amani 500948377
+
 import psycopg2
 import pandas as pd
 import matplotlib.pyplot as plt
