@@ -1,3 +1,5 @@
+###uthor : Arezoo Amani 500948377
+
 import csv
 from config import load_config
 import psycopg2
