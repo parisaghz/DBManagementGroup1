@@ -10,7 +10,7 @@ where ur.url = mi.url
 
 alter table user_reviews
 add constraint fk_movie_info
-foreign key (movie_id) references movie_info(movie_id)
+foreign key (movie_id) references movie_info(id)
 
 select ui.*, mi.movie_title
 from user_reviews ui
