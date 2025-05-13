@@ -6,7 +6,8 @@ This project explores how **emotional tones in user and expert movie reviews** i
 
 ## 📄 Full Report  
 Read the full academic report with methodology, hypotheses, ERD, and analysis here:  
-📥 [Emotional_Dynamics_Box_Office_Report.pdf](./docs/Emotional_Dynamics_Box_Office_Report.pdf)
+📥 [Download Full Report (PDF)](./Box_Office_Report.pdf)
+
 
 ---
 
