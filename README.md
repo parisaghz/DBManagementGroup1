@@ -59,6 +59,6 @@ We formulated 5 testable hypotheses, including:
 ├── data/                      # Cleaned datasets or CSV outputs
 │   └── meta_clean.csv
 ├── docs/
-│   └── Emotional_Dynamics_Box_Office_Report.pdf
+│   └── Box_Office_Report.pdf
 ├── ERD.pdf                    # Entity Relationship Diagram (also included in report)
 └── README.md                  # Project overview (this file)
