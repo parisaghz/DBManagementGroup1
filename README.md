@@ -27,7 +27,7 @@ We formulated 5 testable hypotheses, including:
 
 - Arezoo Amani  
 - Ghazale Ghahremani  
-- **Parisa Ghazanfari**  
+- Parisa Ghazanfari**  
 - Julian Smissaert  
 
 > ✨ *This was a collaborative academic project. All members contributed to various components including research, coding, data cleaning, and reporting.*
